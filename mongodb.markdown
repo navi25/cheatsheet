@@ -15,8 +15,8 @@ mongo
 All the commands for mongodb can be given from this shell
 
 ## Analogy with RDBMS
-Database in RDBMS is database in MongoDB \n
-Tables in RDBMS is collections in MongoDB \n
+Database in RDBMS is database in MongoDB<br/>
+Tables in RDBMS is collections in MongoDB <br/>
 Row in a table in RDBMS is document in MongoDB
 
 ## Basic commands
